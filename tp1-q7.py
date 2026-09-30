@@ -95,6 +95,7 @@ def creer_fichier(n):
 # ✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮
 # Programme principal
 # ✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮✮
+
 n = int(input("Taille de l'échiquier : "))
 if n <= 0:
     print("La taille doit être un entier positif.")
