@@ -1,4 +1,4 @@
-# TP3 — Logique
+# TP1 — Logique
 
 > TP de modélisation en logique propositionnelle et utilisation de solveurs SAT.
 
