@@ -1,6 +1,7 @@
 # TP1 — Logique
 
 > TP de modélisation en logique propositionnelle et utilisation de solveurs SAT.
+> langage python, minisat.exe needed
 
 ---
 
